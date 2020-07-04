@@ -1,0 +1,4 @@
+[submodule "joseymannanal/addons"]
+	path = joseymannanal/addons
+	url = git@github.com:joseymannanal/addons.git
+	branch = master
